@@ -4,7 +4,8 @@
   "description": "master project",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "build":"npm run build"
   },
   "author": "paul",
   "license": "ISC",

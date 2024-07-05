@@ -1,0 +1,7 @@
+{
+  "name" : "hrdashboard",
+  "script" : "index.js",
+  "cwd" : "/root/zive-hr/Zive-hr/",
+  "watch" : true,
+  "ignore_watch" : ["public"]
+}
